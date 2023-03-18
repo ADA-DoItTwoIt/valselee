@@ -11,6 +11,7 @@
 		7E2F8F3229C5730B003AFD03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2F8F3129C5730B003AFD03 /* ContentView.swift */; };
 		7E2F8F3429C5730B003AFD03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E2F8F3329C5730B003AFD03 /* Assets.xcassets */; };
 		7E2F8F3729C5730B003AFD03 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E2F8F3629C5730B003AFD03 /* Preview Assets.xcassets */; };
+		7E2F8F3E29C5746E003AFD03 /* Date+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E2F8F3D29C5746E003AFD03 /* Date+.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7E2F8F3129C5730B003AFD03 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7E2F8F3329C5730B003AFD03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E2F8F3629C5730B003AFD03 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7E2F8F3D29C5746E003AFD03 /* Date+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7E2F8F2F29C5730B003AFD03 /* PenCakeCloneApp.swift */,
 				7E2F8F3129C5730B003AFD03 /* ContentView.swift */,
+				7E2F8F3D29C5746E003AFD03 /* Date+.swift */,
 				7E2F8F3329C5730B003AFD03 /* Assets.xcassets */,
 				7E2F8F3529C5730B003AFD03 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E2F8F3E29C5746E003AFD03 /* Date+.swift in Sources */,
 				7E2F8F3229C5730B003AFD03 /* ContentView.swift in Sources */,
 				7E2F8F3029C5730B003AFD03 /* PenCakeCloneApp.swift in Sources */,
 			);
